@@ -5,6 +5,6 @@
 
 Description and links to datasets
 City of Pittsburgh Trees url: https://data.wprdc.org/dataset/city-trees
-Trees cared for and managed by the City of Pittsburgh Department of Public Works Forestry Division.
+<br>Trees cared for and managed by the City of Pittsburgh Department of Public Works Forestry Division.
 
 Abstract
